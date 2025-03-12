@@ -1,3 +1,5 @@
+This is the OLD version of README file, the updated version of project structure is in the NEW README.md file. But this file also contains some import details of setting-up the project.
+
 # PowerXYZ Ebook Search Application
 
 A web-based application for searching and reading ebooks from a local library collection.
